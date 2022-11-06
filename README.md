@@ -1,0 +1,1 @@
+# md-to-pdf-HOWTO-Japanese
