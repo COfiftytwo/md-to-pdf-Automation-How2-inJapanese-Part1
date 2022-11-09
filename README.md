@@ -97,8 +97,7 @@ $ npx md-to-pdf README.md
 √ generating PDF from README.md
 ```
 
-次にGithubで自動化を行う作業に進みたいと思いますが、記事が長くなったので続きは<a href="https://github.com/COfiftytwo/Japanese-md-to-pdf-HOWTO-2">こちら</a>から。
-※Japanese-md-to-pdf-HOWTO-2は作成中です。ごめんなさい(´・ω・｀)
+次にGithubで自動化を行う作業に進みたいと思いますが、記事が長くなったので続きは<a href="https://github.com/COfiftytwo/md-to-pdf-Automation-How2-inJapanese-Part2/blob/main/README.md">こちら</a>から。
 
 引用：<br>
 npmについて：https://www.youtube.com/watch?v=1XADZvNlfy8 <br>
