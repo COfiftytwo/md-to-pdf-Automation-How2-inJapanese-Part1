@@ -88,7 +88,8 @@ found 0 vulnerabilities
 └── README.md
 ```
 
-次にこのカレントディレクトリにあるREADMEファイルをPDFに変換できるかどうかを下のコマンドで確かめます。
+次にこのカレントディレクトリにあるREADMEファイルをPDFに変換できるかどうかを下のコマンドで確かめます。<br>
+※なるべく、Windowsならコマンドプロンプトで、Macならターミナルで実行。
 ```
 $ npx md-to-pdf README.md
 ```
